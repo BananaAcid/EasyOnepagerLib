@@ -5,7 +5,8 @@
  * @author nabil redmann <repo+easyonepagerlib@bananaacid.de>
  * @licence MIT
  * @version 1.8
- * @usage
+ * @repository https://github.com/BananaAcid/EasyOnepagerLib
+ * @example
  *  Initialization of the functions
  *
  *  $.EasyOnepagerLib.ParallaxItem(item = '#parallax');
